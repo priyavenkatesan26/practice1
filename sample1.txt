@@ -1,1 +1,4 @@
 this file is sample1.txt.
+Hello learners,
+we are going to learn about Git and Github.
+Git is a version control system.
