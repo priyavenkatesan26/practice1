@@ -1,0 +1,2 @@
+Hello learners,
+we are going to learn about Git and Github.
